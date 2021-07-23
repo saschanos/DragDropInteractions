@@ -1,0 +1,19 @@
+{
+  "name": "dragdropinteractions",
+  "version": "1.0.0",
+  "description": "Drag and Drop Interaction Ideas =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saschanos/DragDropInteractions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saschanos/DragDropInteractions/issues"
+  },
+  "homepage": "https://github.com/saschanos/DragDropInteractions#readme"
+}
